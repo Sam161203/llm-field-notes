@@ -78,7 +78,7 @@ If you want 500 links with no context, there are better repos for that.
 
 | Project | Creator | Description | Link |
 |---------|---------|-------------|------|
-| OpenAI Operator | OpenAI | Browser-use agent for real-world tasks | [openai.com](https://openai.com/operator) |
+| OpenAI Operator | OpenAI | Browser-use agent for real-world tasks | [openai.com](https://openai.com/index/introducing-operator/) |
 | Claude Computer Use | Anthropic | LLM controlling desktop GUI | [docs.anthropic.com](https://docs.anthropic.com) |
 | Google Mariner | Google DeepMind | Deep research + browser agent | [deepmind.google](https://deepmind.google) |
 | LangGraph | LangChain | Stateful, cyclical multi-agent framework | [github](https://github.com/langchain-ai/langgraph) |
